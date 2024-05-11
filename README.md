@@ -1,5 +1,5 @@
 
-# Running / Building locally  <npm run preview
+# Running / Building locally  <pnpm run build npm run preview
 ```sh
 git clone https://github.com/altlokalt/aleks
 cd website
