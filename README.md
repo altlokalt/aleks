@@ -1,5 +1,5 @@
 
-# Running / Building locally  <pnpm run build npm run preview
+# Runnin npm update @sveltejs/kit  <pnpm run build npm run preview
 ```sh
 git clone https://github.com/altlokalt/aleks
 cd website
