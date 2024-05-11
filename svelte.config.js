@@ -9,11 +9,8 @@ const config = {
   preprocess: vitePreprocess(),
   kit: {
     adapter: adapter({
-      // Specify the output directory for the static files
-      out: 'public',
-      // Specify other adapter options if needed
-      // (e.g., target, fallback, precompress, strict, etc.)
-      // target: 'static',
+      out: 'public', // Specify the output directory as 'public'
+      // Other adapter options:
       // pages: 'build',
       // assets: 'build',
       // fallback: undefined,
