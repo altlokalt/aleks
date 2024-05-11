@@ -10,9 +10,9 @@ const config = {
   kit: {
     adapter: adapter({
       out: 'public', // Specify the output directory as 'public'
-      // Other adapter options:
-      pages: 'build',
-      assets: 'build',
+      // Adjust paths for built pages and assets
+      pages: 'public',
+      assets: 'public',
       fallback: undefined,
       precompress: false,
       strict: true
