@@ -1,5 +1,5 @@
 
-# Running / Building locally  <h1 align="center">Alek`s Frisør Nettside</h1>
+# Running / Building locally  <npm run preview
 ```sh
 git clone https://github.com/altlokalt/aleks
 cd website
