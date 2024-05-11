@@ -3,29 +3,29 @@
 </script>
 
 <svelte:head>
-  <title>About Us</title>
+  <title>Om Oss</title>
 </svelte:head>
 
 <div class="container">
   <div class="content">
-  <h1>About Us</h1>
-  <br>
-  <p>Hey there! Welcome to Oláh Barbershop, where style meets tradition. This is not just a regular barbershop – <b>this is <ins>your</ins></b> barbershop, dedicated to keeping <i>you</i> sharp and stylish.</p>
-  <br>
-  <h3>Who We Are:</h3>
-  <p>At Oláh Barbershop, we believe that a haircut is more than just a trim; it's an <del>adventure</del> experience. Our team of skilled barbers is passionate about their craft, ensuring that each visit is not just about getting a haircut, but about enjoying the whole grooming journey as well.</p>
-  <br>
-  <h3>What Sets Us Apart:</h3>
-  <ul>
-    <li>✂️ Precision: Our barbers are artists with a pair of scissors.</li>
-    <li>🤝 Community: We're not just a barbershop; we're a hub for like-minded individuals who appreciate the art of grooming.</li>
-    <li>🌟 Tailored Experience: Your style is unique, and so is our approach.</li>
-  </ul>
-  <br>
-  <h3>Our Mission:</h3>
-  <p>We are on a mission to redefine the grooming experience. We want every visit to be more than just a haircut; we want it to be a memorable moment where you leave looking and feeling your best.</p>
-  <br>
-  <h3>Come Join Us:</h3>
-  <p>Ready for a grooming experience like no other? Swing by one of our locations and let's redefine your style together. Your hair, our canvas – let's create something amazing!</p>
+    <h1>Om Oss</h1>
+    <br>
+    <p>Vi legger vekt på kreativitet og dyktighet – <b>dette er <ins>din</ins></b>. Dette kombineres med hva du <i>ønsker deg</i> som kunde.</p>
+    <br>
+    <h3>Hvem Vi Er:</h3>
+    <p>Vi tilbyr: Hårklipp, hårfarging med og uten kjønnsdiskriminering, permanent, hårstyling, hårfjerning (ansikt og kropp), øyenbrynforming, piercing i nese og øre, fotpleie og hudpleie. Vår dyktige frisører er lidenskapelige om sitt håndverk, og sørger for at hvert besøk ikke bare handler om å få en hårklipp, men også om å nyte hele pleiereisen.</p>
+    <br>
+    <h3>Hva Gjør Oss Unike:</h3>
+    <ul>
+      <li>✂️ Presisjon: Våre frisører er kunstnere med saks.</li>
+      <li>🤝 Fellesskap: Vi er ikke bare en frisørsalong; vi er et samlingspunkt for likesinnede som verdsetter kunsten ved grooming.</li>
+      <li>🌟 Tilpasset Opplevelse: Din stil er unik, og så er vår tilnærming.</li>
+    </ul>
+    <br>
+    <h3>Vår Målsetning:</h3>
+    <p>Vi er på en mission for å omdefinere pleieopplevelsen. Vi ønsker at hvert besøk skal være mer enn bare en hårklipp; vi vil at det skal være et minneverdig øyeblikk hvor du forlater oss og føler deg på ditt beste.</p>
+    <br>
+    <h3>Bli Med Oss:</h3>
+    <p>Klar for en pleieopplevelse som ingen annen? Stikk innom en av våre salonger og la oss omdefinere stilen din sammen. Ditt hår, vårt lerret – la oss skape noe fantastisk!</p>
   </div>
 </div>

@@ -19,7 +19,7 @@ set VITE_BASE_URL=https://alexfrisor.vercel.app/
 VITE_BASE_URL=[the base URL of your API instance]
 ```
 
-## Running
+## Running LOCALLY
 ```sh
 pnpm dev --open
 ```

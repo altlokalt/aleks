@@ -44,15 +44,15 @@
   const services: string = base + '/services'
   const locations: string = base + '/locations'
 
-  const copyright: string = `\u00A9 ${new Date().getFullYear()} Oláh Barbershop` 
+  const copyright: string = `\u00A9 ${new Date().getFullYear()} ALEX FRISØR HAGOS AS` 
 </script>
 
 <svelte:head>
   <meta name="google-site-verification" content="VSgLH2cb_vLXqlGC7dA2zyafU-AvTltrHtxnsXMeYSk" />
-  <meta property="og:url" content="https://web.olahbarbershop.codes/">
+  <meta property="og:url" content="https://aleksfrisor.vercel.app/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Oláh Barbershop">
-  <meta property="og:description" content="The Oláh Barbershop website">
+  <meta property="og:title" content="ALEX FRISØR HAGOS AS">
+  <meta property="og:description" content="The ALEX FRISØR HAGOS AS">
   <meta property="og:image" content={icon}>
 </svelte:head>
 
@@ -62,11 +62,11 @@
      <li class="logo"><a href={home}><img src={icon} alt="logo"></a></li>
       <input type="checkbox" id="check" bind:checked>
       <span class="menu">
-        <li><a use:menuEffect={52} href={home} class="home" data-value="Home">Home</a></li>
-        <li><a use:menuEffect={26} href={services} class="services" data-value="Services">Services</a></li>
-        <li><a use:menuEffect={23} href={locations} class="locations" data-value="Locations">Locations</a></li>
-        <li><a use:menuEffect={30} href={contact} class="contact" data-value="Contact">Contact</a></li>
-        <li><a use:menuEffect={42} href={about} class="about" data-value="About">About</a></li>
+        <li><a use:menuEffect={52} href={home} class="home" data-value="Meny">Meny</a></li>
+        <li><a use:menuEffect={26} href={services} class="services" data-value="Tjenester">Tjenester</a></li>
+        <li><a use:menuEffect={23} href={locations} class="locations" data-value="Lokasjon">Lokasjon</a></li>
+        <li><a use:menuEffect={30} href={contact} class="contact" data-value="Kontakt">Kontakt</a></li>
+        <li><a use:menuEffect={42} href={about} class="about" data-value="Om Oss">Om Oss</a></li>
         <label for="check" class="close-menu"><img src={timesIcon} alt="Close menu"></label>
       </span>
       <label for="check" class="open-menu"><img src={barsIcon} alt="Open menu"></label>
