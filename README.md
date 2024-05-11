@@ -25,8 +25,16 @@ pnpm dev --open
 pnpm build
 pnpm preview --open
 ```
+# Create a new repository on GitHub: Note the repository URL.
 
 git init
+git add .
+git commit -m "my first upload commit"
+git remote add origin https://github.com/altlokalt/aleks.git
+git branch -M main
+git push -u origin main
+# obs on the branch u can create many branches too
+
 
 
 **IMPORTANT** If you're building the site and **not** serving it from your root directory, add the absolute path that your build is served from to a `.env` file, e.g. "/website" if you're serving from example.com/website
