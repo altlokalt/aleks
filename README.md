@@ -1,7 +1,7 @@
 
 # Running / Building locally  <h1 align="center">Alek`s Frisør Nettside</h1>
 ```sh
-git clone https://github.com/Olah-Barbershop/website
+git clone https://github.com/altlokalt/aleks
 cd website
 pnpm install
 ```
@@ -30,10 +30,27 @@ pnpm preview --open
 git init
 git add .
 git commit -m "my first upload commit"
+# obs on the branch u can create many branches too
+# remove origin
+git remote remove origin
+git remote add origin https://github.com/altlokalt/aleks.git
+# update it
+git remote set-url origin https://github.com/altlokalt/aleks.git
+# push to existing repo
 git remote add origin https://github.com/altlokalt/aleks.git
 git branch -M main
 git push -u origin main
-# obs on the branch u can create many branches too
+
+# create from scratch from command line
+echo "# aleks" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/altlokalt/aleks.git
+git push -u origin main
+
+
 
 
 

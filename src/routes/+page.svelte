@@ -10,6 +10,6 @@
   <div class="main">
     <h1>Alek`s Frisør!</h1>
     <br>
-    <h1>This is <b>your</b> barbershop.</h1>
+    <h1>your <b>your</b> barbershop.</h1>
   </div> 
 </div>
