@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Oláh Barbershop</title>
+  <title>ALEX FRISØR HAGOS AS</title>
 </svelte:head>
 
 <div class="container">

@@ -1,5 +1,7 @@
 
-# Runnin npm update @sveltejs/kit  <pnpm run build pnpm run preview
+# Run https://aleksfrisor.vercel.app/
+<npm update @sveltejs/kit 
+ <pnpm run build pnpm run preview
 ```sh
 git clone https://github.com/altlokalt/aleks
 cd website
