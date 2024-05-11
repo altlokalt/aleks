@@ -1,10 +1,12 @@
 
-# Runnin npm update @sveltejs/kit  <pnpm run build npm run preview
+# Runnin npm update @sveltejs/kit  <pnpm run build pnpm run preview
 ```sh
 git clone https://github.com/altlokalt/aleks
 cd website
 pnpm install
 ```
+# new folder dir
+mkdir public
 
 ### OPTIONAL: The default API URL is "https://olahbarbershop.codes"; however, this can be changed
 
